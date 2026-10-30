@@ -1,5 +1,5 @@
 ![Результат виконання](rez9.png)
-**Тема:** Вивчення `Dictionary<TKey, TValue>` та `HashSet<T>` у бібліотеках .NET
+
 
 ---
 
